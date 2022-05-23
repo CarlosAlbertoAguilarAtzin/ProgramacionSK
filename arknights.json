@@ -1,12 +1,22 @@
 [
    {
      "nombre":"Siege",
+     "Género":"Femenino",
+     "Lugar de nacimiento":"Victoria",
+     "Cumpleaños":"10 de Julio",
+     "Raza":"Aslán",
+     "Experiencia de combate":"5 años",
+     "Estado de infección":"No infectado según constancia médica",
      "clase":"Vanguardia",
      "Facción":"Glasgow",
      "HP":"911",
      "ATQ":"212",
      "DEF":"154",
      "Art Resist (RES)":"0",
+     "Rasgos":"Bloquea 2 enemigos",
+     "Talento":"ATK y DEF de todos los operadores de vanguardia +4 %,Obtiene 1 punto de habilidad cuando un enemigo en las cuatro casillas circundantes muere",
+
+
    }
 
 
